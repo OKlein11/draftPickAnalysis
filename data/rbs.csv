@@ -1,0 +1,515 @@
+season,round,pick,team,pfr_player_id,pfr_player_name,position,college,allpro,probowls,seasons_started,games,carries,rushing_yards,rushing_tds,rushing_fumbles,rushing_fumbles_lost,rushing_first_downs,rushing_2pt_conversions,receptions,targets,receiving_yards,receiving_tds,receiving_fumbles,receiving_fumbles_lost,receiving_air_yards,receiving_yards_after_catch,receiving_first_downs,receiving_2pt_conversions
+2000,1,5,BAL,LewiJa00,Jamal Lewis,RB,Tennessee,1,1,9,131,2671,11000,62,37,23,485,2,231,259,1947,4,4,4,35,618,73,0
+2000,1,7,ARI,JoneTh00,Thomas Jones,RB,Virginia,0,1,9,180,2805,11099,73,26,12,527,0,320,364,2113,3,2,2,-88,971,93,0
+2000,1,11,NYG,DaynRo00,Ron Dayne,RB,Wisconsin,0,0,1,96,1011,3796,28,7,4,222,2,59,65,352,0,1,1,-13,202,10,0
+2000,1,19,SEA,AlexSh00,Shaun Alexander,RB,Alabama,1,3,7,123,2356,10009,108,30,18,535,0,225,265,1572,12,2,0,-2,154,72,0
+2000,1,31,STL,CaniTr00,Trung Canidate,RB,Arizona,0,0,1,46,240,1092,7,3,2,48,0,32,42,260,1,1,1,0,0,13,0
+2000,3,63,CLE,PrenTr00,Travis Prentice,RB,Miami (OH),0,0,1,30,185,509,9,1,1,32,0,38,44,201,1,1,0,0,0,7,0
+2000,3,76,NWE,RedmJ.00,J.R. Redmond,RB,Arizona St.,0,0,0,50,200,682,1,3,1,25,0,77,97,571,2,1,0,0,0,22,0
+2000,3,81,DET,DrouRe00,Reuben Droughns,RB,Oregon,0,0,3,114,937,3631,19,17,8,200,0,132,135,1036,6,0,0,-22,240,51,0
+2000,3,88,MIN,ChapDo00,Doug Chapman,RB,Marshall,0,0,0,26,90,317,0,2,0,15,0,17,20,143,1,0,0,0,9,5,0
+2000,4,97,CIN,KeatCu00,Curtis Keaton,RB,James Madison,0,0,0,25,23,91,0,1,0,4,0,1,1,9,0,0,0,0,0,0,0
+2000,4,115,KAN,MoreFr00,Frank Moreau,RB,Louisville,0,0,0,14,57,148,4,3,1,15,0,0,0,0,0,0,0,0,0,0,0
+2000,5,132,SFO,SmitPa00,Paul Smith,RB,Texas-El Paso,0,0,0,79,46,210,1,1,0,11,0,18,22,182,0,1,1,0,0,9,0
+2000,5,144,DAL,WileMi00,Michael Wiley,RB,Ohio St.,0,0,0,42,80,503,1,1,0,24,0,43,74,315,2,2,2,0,0,14,0
+2000,5,156,BUF,MorrSa00,Sammy Morris,RB,Texas Tech,0,0,3,144,730,3040,25,7,5,188,1,167,194,1267,1,1,0,125,595,53,0
+2000,5,166,NOR,MortCh00,Chad Morton,RB,USC,0,0,0,93,92,381,0,0,0,16,0,60,73,550,1,0,0,0,0,24,0
+2000,6,171,PHI,,Thomas Hamner,RB,Minnesota,0,0,0,,,,,,,,,,,,,,,,,,
+2000,6,189,DEN,AndeMi00,Mike Anderson,RB,Utah,0,0,3,98,964,4234,40,11,7,233,2,99,118,768,5,1,1,1,85,33,0
+2000,7,213,TEN,GreeMi00,Mike Green,RB,Houston,0,0,0,32,36,142,1,1,0,8,0,19,24,121,2,0,0,0,0,6,0
+2000,7,243,JAX,StitSh00,Shyrone Stith,RB,Virginia Tech,0,0,0,15,20,55,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2000,7,252,GNB,MealRo00,Rondell Mealey,RB,LSU,0,0,0,14,22,73,1,0,0,4,0,9,11,76,0,0,0,0,0,4,0
+2001,1,5,SDG,TomlLa00,LaDainian Tomlinson,RB,TCU,3,5,10,170,3307,14154,151,23,8,711,0,649,745,4943,18,9,4,162,2505,196,0
+2001,1,23,NOR,McAlDe00,Deuce McAllister,RB,Mississippi,0,2,4,97,1457,6261,52,19,13,302,0,241,273,1767,6,1,0,-60,425,70,0
+2001,1,27,MIN,BennMi00,Michael Bennett,RB,Wisconsin,0,1,3,107,864,3794,13,11,6,147,0,166,180,1328,6,4,3,-10,282,51,0
+2001,2,38,CHI,ThomAn01,Anthony Thomas,RB,Michigan,0,0,3,86,1059,3927,23,8,5,178,1,114,139,767,1,0,0,3,231,28,0
+2001,2,49,NYJ,JordLa00,LaMont Jordan,RB,Maryland,0,0,2,114,936,3950,30,7,2,214,1,163,176,1334,3,1,1,18,316,64,0
+2001,2,58,BUF,HenrTr00,Travis Henry,RB,Tennessee,0,1,4,90,1489,6083,38,32,17,294,1,141,162,951,2,0,0,-3,146,41,0
+2001,3,65,CLE,JackJa00,James Jackson,RB,Miami (FL),0,0,1,52,325,1082,5,4,4,56,0,32,37,233,0,0,0,0,0,8,0
+2001,3,80,SFO,BarlKe00,Kevan Barlow,RB,Pittsburgh,0,0,2,84,1034,4020,31,10,7,190,0,147,162,1169,3,3,1,-8,29,51,0
+2001,3,85,MIA,MinoTr00,Travis Minor,RB,Florida St.,0,0,0,118,313,1251,8,1,1,65,0,69,78,478,1,0,0,23,100,22,0
+2001,4,100,CIN,JohnRu00,Rudi Johnson,RB,Auburn,0,1,5,95,1530,6047,50,15,8,312,1,115,119,690,2,0,0,16,306,26,0
+2001,4,108,KAN,LaynGe00,George Layne,RB,TCU,0,0,0,11,3,32,0,0,0,3,0,4,5,20,0,1,1,0,0,0,0
+2001,4,121,PHI,BuckCo00,Correll Buckhalter,RB,Nebraska,0,0,0,103,713,3184,22,10,8,156,0,156,184,1454,5,1,0,86,1090,64,0
+2001,5,150,KAN,BlayDe00,Derrick Blaylock,RB,S.F. Austin,0,0,0,51,200,816,10,0,0,46,0,54,59,529,2,1,0,1,28,19,0
+2001,5,161,BAL,,Chris Barnes,RB,New Mexico St.,0,0,0,,,,,,,,,,,,,,,,,,
+2001,6,175,CAR,BrowDe02,Dee Brown,RB,Syracuse,0,0,0,43,119,405,4,4,3,20,0,21,37,114,2,0,0,-2,7,7,0
+2001,6,192,TEN,AlexDa21,Dan Alexander,RB,Nebraska,0,0,0,11,,,,,,,,,,,,,,,,,
+2002,1,16,CLE,GreeWi01,William Green,RB,Boston Col.,0,0,3,46,593,2139,10,11,5,104,0,47,58,285,0,1,1,0,0,10,0
+2002,1,18,ATL,DuckT.00,T.J. Duckett,RB,Michigan St.,0,0,1,93,758,2944,46,10,6,187,0,36,38,321,0,0,0,-9,79,15,0
+2002,2,34,CAR,FostDe00,DeShaun Foster,RB,UCLA,0,0,3,79,1013,3974,13,15,8,194,0,148,148,1162,5,5,3,51,417,39,0
+2002,2,51,DEN,PortCl00,Clinton Portis,RB,Miami (FL),0,2,7,113,2300,10137,76,27,19,502,1,255,277,2062,5,0,0,-97,1020,92,1
+2002,2,54,SEA,MorrMa00,Maurice Morris,RB,Oregon,0,0,1,145,911,3772,13,8,3,187,0,154,181,1196,5,1,1,146,888,52,1
+2002,2,56,WAS,BettLa00,Ladell Betts,RB,Iowa,0,0,1,111,837,3371,15,10,7,173,0,194,210,1697,3,2,1,-17,1182,74,0
+2002,3,84,STL,GordLa00,Lamar Gordon,RB,North Dakota St.,0,0,0,41,226,774,3,6,3,44,0,62,70,490,2,1,1,0,0,18,0
+2002,3,91,PHI,WestBr00,Brian Westbrook,RB,Villanova,1,2,7,121,1515,6911,44,4,2,345,0,476,505,4282,33,6,6,206,2176,185,1
+2002,4,99,HOU,WellJo00,Jonathan Wells,RB,Ohio St.,0,0,1,60,374,1167,10,4,2,58,1,44,47,323,2,0,0,0,0,11,0
+2002,4,119,TAM,StepTr01,Travis Stephens,RB,Tennessee,0,0,0,1,0,0,0,0,0,0,0,1,1,6,0,0,0,0,0,0,0
+2002,4,135,GNB,DaveNa00,Najeh Davenport,RB,Miami (FL),0,0,0,73,431,1921,16,10,2,109,0,56,60,561,3,0,0,131,323,23,0
+2002,5,145,CAR,JohnKy00,Kyle Johnson,RB,Syracuse,0,0,2,45,9,39,1,0,0,4,0,33,33,323,8,0,0,12,25,19,0
+2002,5,166,PIT,HaynVe00,Verron Haynes,RB,Georgia,0,0,0,68,186,830,3,4,3,47,0,66,71,487,2,1,1,12,115,24,0
+2002,6,185,ARI,ScobJo00,Josh Scobey,RB,Kansas St.,0,0,0,62,27,89,0,0,0,7,0,19,19,200,0,0,0,0,0,8,0
+2002,6,197,OAK,NedxLa00,Larry Ned,RB,San Diego St.,0,0,0,19,0,0,0,0,0,0,0,1,1,9,0,0,0,0,0,1,0
+2002,6,199,CHI,PeteAd00,Adrian Peterson,RB,Georgia Southern,0,0,0,106,3664,16625,134,46,26,792,1,390,485,3196,6,11,6,172,3009,132,0
+2002,6,204,IND,AlleBr20,Brian Allen,RB,Stanford,0,0,0,4,,,,,,,,,,,,,,,,,
+2002,6,207,BAL,TaylCh01,Chester Taylor,RB,Toledo,0,0,1,151,1196,4877,28,14,8,228,1,312,356,2425,6,4,3,153,1559,116,0
+2002,7,214,DET,,Luke Staley,RB,BYU,0,0,0,,,,,,,,,,,,,,,,,,
+2002,7,237,NWE,,Antwoine Womack,RB,Virginia,0,0,0,,,,,,,,,,,,,,,,,,
+2002,7,241,MIA,HenrLe20,Leonard Henry,RB,East Carolina,0,0,0,6,45,134,0,1,1,5,0,3,3,12,0,0,0,0,0,0,0
+2002,7,243,STL,MassCh00,Chris Massey,RB,Marshall,0,0,0,141,1,-1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+2002,7,251,BUF,,Jarrett Ferguson,RB,Virginia Tech,0,0,0,,,,,,,,,,,,,,,,,,
+2003,1,23,BUF,McGaWi00,Willis McGahee,RB,Miami (FL),0,2,7,142,2206,8882,70,28,22,461,1,220,251,1409,5,4,2,-129,1218,62,1
+2003,1,27,KAN,JohnLa00,Larry Johnson,RB,Penn St.,1,2,4,85,1440,6236,55,15,8,325,0,159,165,1402,6,0,0,-70,841,64,0
+2003,3,77,BAL,SmitMu00,Musa Smith,RB,Georgia,0,0,0,49,132,496,4,3,1,27,0,54,54,363,0,0,0,27,300,15,0
+2003,3,93,TEN,BrowCh03,Chris Brown,RB,Colorado,0,0,2,68,743,3135,21,14,9,143,0,91,96,743,2,1,1,41,195,33,0
+2003,4,99,DET,PinnAr00,Artose Pinner,RB,Kentucky,0,0,0,47,249,860,8,1,1,47,0,39,39,308,0,0,0,4,11,10,0
+2003,4,101,HOU,DaviDo01,Domanick Williams,RB,LSU,0,0,3,40,769,3187,23,5,5,142,0,155,155,1284,5,4,3,0,0,60,0
+2003,4,105,MIN,SmitOn00,Onterrio Smith,RB,Oregon,0,0,0,26,249,1196,7,3,1,49,0,57,57,573,2,0,0,0,0,32,2
+2003,4,108,DEN,GrifQu00,Quentin Griffin,RB,Oklahoma,0,0,0,16,185,716,2,5,3,31,0,20,20,147,1,1,1,0,0,9,0
+2003,4,115,CLE,SuggLe00,Lee Suggs,RB,Virginia Tech,0,0,0,29,269,1074,4,8,4,52,0,28,28,204,1,0,0,0,0,6,0
+2003,4,132,JAX,ToefLa00,LaBrandon Toefield,RB,LSU,0,0,0,45,163,572,7,0,0,27,0,46,46,277,2,1,1,3,1,20,0
+2003,6,206,CHI,ForsBr00,Brock Forsey,RB,Boise St.,0,0,0,16,69,244,2,1,0,14,0,3,3,37,0,0,0,0,0,3,0
+2003,7,235,DEN,,Ahmaad Galloway,RB,Alabama,0,0,0,,,,,,,,,,,,,,,,,,
+2003,7,236,DET,,Brandon Drumm,RB,Colorado,0,0,0,,,,,,,,,,,,,,,,,,
+2003,7,242,PIT,,J.T. Wall,RB,Georgia,0,0,0,,,,,,,,,,,,,,,,,,
+2003,7,247,CAR,,Casey Moore,RB,Stanford,0,0,0,,,,,,,,,,,,,,,,,,
+2004,1,24,STL,JackSt00,Steven Jackson,RB,Oregon St.,0,3,10,160,2795,11539,70,18,13,545,1,464,558,3680,9,5,2,475,2879,154,1
+2004,1,26,CIN,PerrCh00,Chris Perry,RB,Michigan,0,0,0,35,177,604,2,5,3,29,0,90,90,490,2,2,1,15,103,27,0
+2004,1,30,DET,JoneKe02,Kevin Jones,RB,Virginia Tech,0,0,4,64,795,3176,24,10,6,155,0,144,144,1011,3,1,1,10,712,44,0
+2004,2,41,DEN,BellTa00,Tatum Bell,RB,Oklahoma St.,0,0,1,54,592,2872,17,7,5,126,0,80,80,479,0,3,2,-51,281,17,0
+2004,2,43,DAL,JoneJu01,Julius Jones,RB,Notre Dame,0,0,6,94,1322,5243,24,12,10,238,0,158,175,1090,2,0,0,-225,996,52,0
+2004,2,55,JAX,JoneGr01,Greg Jones,RB,Florida St.,0,0,5,131,274,928,10,1,0,59,0,74,93,483,3,0,0,125,331,25,0
+2004,4,119,MIN,MoorMe00,Mewelde Moore,RB,Tulane,0,0,1,122,522,2325,6,4,3,116,2,227,248,2004,8,2,1,271,1220,87,0
+2004,4,128,NWE,CobbCe00,Cedric Cobbs,RB,Arkansas,0,0,0,5,25,59,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0
+2004,5,154,SDG,TurnMi00,Michael Turner,RB,Northern Illinois,1,2,5,134,1751,7776,69,15,10,374,0,73,104,545,1,1,1,86,518,19,0
+2004,6,191,TEN,FlemTr00,Troy Fleming,RB,Tennessee,0,0,0,29,7,40,0,0,0,2,0,29,29,233,3,0,0,0,0,12,0
+2004,7,208,CLE,EcheAd00,Adimchinobe Echemandu,RB,California,0,0,0,19,28,110,0,2,2,5,0,5,5,36,0,0,0,-2,13,1,0
+2004,7,219,ATL,WilsQu00,Quincy Wilson,RB,West Virginia,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,7,228,TAM,CramCa00,Casey Cramer,RB,Dartmouth,0,0,0,36,0,0,0,0,0,0,0,4,4,11,1,0,0,4,7,2,0
+2004,7,235,NYJ,WardDe01,Derrick Ward,RB,Ottawa (KS),0,0,0,93,565,2681,12,4,1,131,0,101,110,811,3,0,0,24,804,31,0
+2004,7,242,PHI,PerrBr01,Bruce Perry,RB,Maryland,0,0,0,5,16,74,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+2004,7,247,DEN,MireBr00,Brandon Miree,RB,Pittsburgh,0,0,0,10,0,0,0,0,0,0,0,9,9,57,0,0,0,32,25,3,0
+2005,1,2,MIA,BrowRo05,Ronnie Brown,RB,Auburn,0,1,6,132,1303,5484,39,14,11,287,1,257,289,2036,3,1,1,202,1660,96,0
+2005,1,4,CHI,BensCe00,Cedric Benson,RB,Texas,0,0,6,96,1667,6308,35,21,12,307,1,127,152,867,1,0,0,7,887,35,0
+2005,1,5,TAM,WillCa02,Cadillac Williams,RB,Auburn,0,0,4,81,1071,4080,21,10,7,198,0,152,190,1014,4,3,3,226,827,43,0
+2005,2,44,ARI,ArriJ.00,J.J. Arrington,RB,California,0,0,0,58,188,660,3,1,1,29,0,99,99,750,2,0,0,-33,644,36,0
+2005,2,54,CAR,ShelEr00,Eric Shelton,RB,Louisville,0,0,0,9,8,23,0,0,0,1,0,1,1,6,0,0,0,4,2,1,0
+2005,3,65,SFO,GoreFr00,Frank Gore,RB,Miami (FL),0,5,14,241,3884,16668,86,43,29,758,0,502,648,4152,18,4,2,483,3820,167,1
+2005,3,73,HOU,MoreVe00,Vernand Morency,RB,Oklahoma St.,0,0,0,39,171,726,4,2,1,38,0,59,59,413,0,1,0,-27,353,19,0
+2005,3,77,PHI,MoatRy00,Ryan Moats,RB,Louisiana Tech,0,0,0,38,204,831,8,4,2,48,0,20,22,127,1,1,0,7,115,7,0
+2005,3,101,DEN,,Maurice Clarett,RB,Ohio St.,0,0,0,,,,,,,,,,,,,,,,,,
+2005,4,109,DAL,BarbMa01,Marion Barber III,RB,Minnesota,0,1,3,99,,,,,,,,,,,,,,,,,
+2005,4,110,NYG,JacoBr00,Brandon Jacobs,RB,Southern Illinois,0,0,3,109,1259,5557,64,19,10,313,1,90,123,788,5,1,1,-30,827,26,0
+2005,4,112,MIN,FasoCi00,Ciatrick Fason,RB,Florida,0,0,0,18,50,161,5,0,0,18,0,3,3,19,0,0,0,5,14,1,0
+2005,4,120,WAS,,Manuel White,RB,UCLA,0,0,0,,,,,,,,,,,,,,,,,,
+2005,4,127,JAX,PearAl00,Alvin Pearman,RB,Virginia,0,0,0,38,60,246,2,1,1,10,0,36,36,276,1,2,2,24,12,14,0
+2005,4,130,SDG,SproDa00,Darren Sproles,RB,Kansas St.,0,3,1,183,810,3854,27,4,3,186,2,602,802,5317,35,3,1,646,5128,233,2
+2005,5,142,TEN,NashDa00,Damien Nash,RB,Missouri,0,0,0,6,24,98,0,0,0,4,0,7,7,55,0,0,0,-2,43,2,0
+2005,6,182,NYJ,HousCe00,Cedric Houston,RB,Tennessee,0,0,0,20,195,676,7,0,0,35,0,15,15,109,0,1,1,-14,57,3,0
+2005,6,201,ATL,CobbDe00,DeAndra Cobb,RB,Michigan St.,0,0,0,3,,,,,,,,,,,,,,,,,
+2005,7,221,TAM,,Rick Razzano,RB,Mississippi,0,0,0,,,,,,,,,,,,,,,,,,
+2005,7,236,BUF,GateLi00,Lionel Gates,RB,Louisville,0,0,0,1,,,,,,,,,,,,,,,,,
+2005,7,243,IND,,Anthony Davis,RB,Wisconsin,0,0,0,,,,,,,,,,,,,,,,,,
+2005,7,244,PIT,HerrNo00,Noah Herron,RB,Northwestern,0,0,0,23,85,273,3,0,0,16,0,29,29,211,2,1,1,4,207,11,0
+2006,1,2,NOR,BushRe00,Reggie Bush,RB,USC,0,0,8,134,1331,5720,39,28,16,258,3,506,618,3900,20,2,0,673,3533,187,1
+2006,1,21,NWE,MaroLa00,Laurence Maroney,RB,Minnesota,0,0,0,49,711,2873,24,6,4,165,1,50,57,526,1,1,1,-14,538,22,0
+2006,1,27,CAR,WillDe02,DeAngelo Williams,RB,Memphis,0,1,6,142,1770,8241,62,12,9,369,2,247,305,2167,9,4,3,-60,2265,89,2
+2006,1,30,IND,AddaJo00,Joseph Addai,RB,LSU,0,1,4,78,1253,5074,43,9,6,297,1,237,264,1746,9,0,0,280,1534,84,0
+2006,2,45,TEN,WhitLe01,LenDale White,RB,USC,0,0,1,58,663,2461,24,6,6,128,0,47,49,236,0,1,1,-28,259,11,0
+2006,2,60,JAX,DrewMa00,Maurice Jones-Drew,RB,UCLA,1,3,4,126,1861,8215,69,17,9,428,0,353,427,3036,12,6,2,236,2936,134,0
+2006,3,74,DET,CalhBr00,Brian Calhoun,RB,Wisconsin,0,0,0,11,14,49,0,1,0,2,0,7,7,55,0,0,0,21,29,2,0
+2006,3,79,ATL,NorwJe00,Jerious Norwood,RB,Mississippi St.,0,0,0,66,399,2070,7,1,1,88,0,98,104,940,3,1,1,117,854,38,0
+2006,4,117,NYJ,WashLe00,Leon Washington,RB,Florida St.,1,2,1,126,498,2329,16,4,3,87,1,173,207,1321,4,2,1,191,1190,59,1
+2006,4,132,BAL,DaniP.00,P.J. Daniels,RB,Georgia Tech,0,0,0,,,,,,,,,,,,,,,,,,
+2006,5,145,CLE,HarrJe00,Jerome Harrison,RB,Washington St.,0,0,0,63,357,1684,7,5,3,75,0,70,88,490,3,0,0,-32,510,19,0
+2006,5,163,SEA,KirtDa00,David Kirtman,RB,USC,0,0,0,7,,,,,,,,,,,,,,,,,
+2006,6,170,HOU,LundWa00,Wali Lundy,RB,Virginia,0,0,1,14,124,476,4,1,1,29,0,33,33,204,0,0,0,-63,267,7,1
+2006,6,195,CHI,RunnJ.00,J.D. Runnels,RB,Oklahoma,0,0,0,2,,,,,,,,,,,,,,,,,
+2006,7,222,CLE,HamiJu20,Justin Hamilton,RB,Virginia Tech,0,0,0,12,,,,,,,,,,,,,,,,,
+2006,7,240,PIT,,Cedric Humes,RB,Virginia Tech,0,0,0,,,,,,,,,,,,,,,,,,
+2006,7,246,TEN,GantQu00,Quinton Ganther,RB,Utah,0,0,0,36,81,277,3,0,0,16,0,17,19,151,0,0,0,-16,165,7,0
+2007,1,7,MIN,PeteAd01,Adrian Peterson,RB,Oklahoma,4,7,12,184,3664,16625,134,46,26,792,1,390,485,3196,6,11,6,172,3009,132,0
+2007,1,12,BUF,LyncMa00,Marshawn Lynch,RB,California,1,5,8,149,2664,11394,97,23,13,566,2,301,387,2366,9,7,4,107,2417,104,0
+2007,2,49,CIN,,Kenny Irons,RB,Auburn,0,0,0,,,,,,,,,,,,,,,,,,
+2007,2,50,TEN,HenrCh01,Chris Henry,RB,Arizona,0,0,0,11,33,122,2,0,0,5,0,126,137,1945,21,2,1,1288,432,86,0
+2007,2,52,STL,LeonBr00,Brian Leonard,RB,Rutgers,0,0,0,88,225,864,0,0,0,50,0,151,185,1051,1,1,1,305,896,55,1
+2007,2,63,GNB,JackBr00,Brandon Jackson,RB,Nebraska,0,0,1,54,371,1451,7,3,0,63,0,120,137,941,4,0,0,-39,995,47,1
+2007,3,71,MIA,BookLo00,Lorenzo Booker,RB,Florida St.,0,0,0,36,61,230,0,2,1,13,0,47,54,362,0,1,1,105,299,20,0
+2007,3,90,PHI,HuntTo01,Tony Hunt,RB,Penn St.,0,0,0,14,14,25,2,0,0,7,0,6,6,42,0,1,1,17,25,3,0
+2007,3,93,CHI,WolfGa00,Garrett Wolfe,RB,Northern Illinois,0,0,0,50,72,282,1,0,0,13,0,11,12,129,0,1,0,-18,146,4,0
+2007,4,100,OAK,BushMi00,Michael Bush,RB,Louisville,0,0,2,89,808,3248,29,4,4,160,0,104,128,1010,2,1,1,116,932,43,0
+2007,4,107,NOR,PittAn00,Antonio Pittman,RB,Ohio St.,0,0,0,23,116,434,0,0,0,23,0,21,21,144,0,1,0,-20,164,5,0
+2007,4,111,BUF,WrigDw01,Dwayne Wright,RB,Fresno St.,0,0,0,15,29,94,0,0,0,8,0,3,3,17,0,1,1,-2,19,1,0
+2007,4,137,BAL,McClLe00,Le'Ron McClain,RB,Alabama,1,2,6,111,393,1417,15,3,1,107,0,95,118,553,3,2,2,-33,608,28,0
+2007,5,148,KAN,SmitKo00,Kolby Smith,RB,Louisville,0,0,0,27,162,540,3,0,0,32,0,34,34,209,0,0,0,-18,227,5,0
+2007,6,181,MIA,MauiRe00,Reagan Maui'a,RB,Hawaii,0,0,1,39,4,5,0,0,0,0,0,6,11,44,0,1,0,35,39,3,0
+2007,6,186,SFO,,Thomas Clayton,RB,Kansas St.,0,0,0,,15,29,0,0,0,2,0,1,1,3,0,0,0,-4,7,0,0
+2007,6,208,NWE,,Justise Hairston,RB,Central Connecticut St.,0,0,0,,,,,,,,,,,,,,,,,,
+2007,7,228,GNB,WynnDe00,DeShawn Wynn,RB,Florida,0,0,0,23,64,332,5,0,0,13,0,14,19,122,0,1,0,-6,131,6,0
+2007,7,236,PHI,,Nate Ilaoa,RB,Hawaii,0,0,0,,,,,,,,,,,,,,,,,,
+2007,7,244,ATL,SnelJa00,Jason Snelling,RB,Virginia,0,0,0,96,368,1440,8,2,1,90,0,173,205,1282,10,3,1,220,1126,55,0
+2007,7,246,TAM,DarbKe00,Kenneth Darby,RB,Alabama,0,0,0,41,95,408,2,1,1,22,0,49,58,356,1,0,0,25,339,16,0
+2007,7,250,NYG,BradAh00,Ahmad Bradshaw,RB,Marshall,0,0,3,103,1194,5408,38,19,13,279,2,207,264,1634,12,1,1,-212,1802,75,0
+2008,1,4,OAK,McFaDa00,Darren McFadden,RB,Arkansas,0,0,4,103,1302,5420,28,17,12,231,0,254,350,2114,5,3,2,204,2136,87,1
+2008,1,13,CAR,StewJo00,Jonathan Stewart,RB,Oregon,0,1,5,134,1805,7808,56,23,15,389,0,171,237,1344,7,2,0,-80,1454,54,0
+2008,1,22,DAL,JoneFe00,Felix Jones,RB,Arkansas,0,0,1,80,647,3129,12,8,5,149,0,140,175,1177,3,3,1,-78,1267,47,0
+2008,1,23,PIT,MendRa00,Rashard Mendenhall,RB,Illinois,0,0,4,72,1142,4466,41,15,12,219,1,99,133,847,2,0,0,20,867,38,0
+2008,1,24,TEN,JohnCh04,Chris Johnson,RB,East Carolina,1,3,7,130,2174,9723,56,17,14,396,1,308,406,2283,9,4,2,212,2258,81,0
+2008,2,44,CHI,FortMa00,Matt Forte,RB,Tulane,0,2,9,146,2397,9939,54,15,12,463,2,568,730,4823,21,7,4,1101,4324,195,4
+2008,2,55,BAL,RiceRa00,Ray Rice,RB,Rutgers,0,3,5,92,1621,6930,42,12,10,279,1,406,528,3330,7,3,2,215,3369,142,0
+2008,3,64,DET,SmitKe02,Kevin Smith,RB,Central Florida,0,0,2,54,606,2366,18,6,3,112,0,131,168,1183,5,1,1,126,1126,52,0
+2008,3,73,KAN,CharJa00,Jamaal Charles,RB,Texas,2,4,4,119,1419,7663,45,24,16,373,0,311,430,2608,20,4,4,367,2507,119,1
+2008,3,89,HOU,SlatSt00,Steve Slaton,RB,West Virginia,0,0,2,45,442,1896,13,7,4,93,0,100,113,808,5,3,3,12,884,35,0
+2008,4,122,DAL,ChoiTa00,Tashard Choice,RB,Georgia Tech,0,0,0,88,387,1622,11,3,2,90,1,82,116,580,0,1,1,-55,649,22,0
+2008,5,139,DEN,ToraRy00,Ryan Torain,RB,Arizona St.,0,0,1,22,238,1011,6,3,1,44,0,24,36,148,2,0,0,-65,190,6,0
+2008,5,149,ARI,HighTi00,Tim Hightower,RB,Richmond,0,0,2,77,799,3193,35,11,8,175,0,171,220,1273,4,2,0,10,1295,70,0
+2008,5,166,SDG,ThomMa01,Marcus Thomas,RB,Texas-El Paso,0,0,0,3,,,,,,,,,,,,,,,,,
+2008,6,172,ATL,BrowTh01,Thomas Brown,RB,Georgia,0,0,0,,,,,,,,,,,,,,,,,,
+2008,6,176,MIA,ParmJa00,Jalen Parmele,RB,Toledo,0,0,0,36,52,200,0,0,0,10,0,7,9,60,0,0,0,10,54,2,0
+2008,6,179,BUF,OmonXa00,Xavier Omon,RB,NW Missouri St.,0,0,0,7,11,27,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0
+2008,6,202,IND,HartMi00,Mike Hart,RB,Michigan,0,0,0,21,80,282,2,0,0,18,0,13,16,106,0,1,0,39,76,6,0
+2008,6,204,MIA,HillLe00,Lex Hilliard,RB,Montana,0,0,1,62,48,163,2,0,0,19,0,30,38,233,2,0,0,79,184,9,0
+2008,7,213,JAX,WashCh00,Chauncey Washington,RB,USC,0,0,0,11,5,8,0,0,0,1,0,3,4,22,0,0,0,2,20,2,0
+2008,7,233,SEA,ForsJu00,Justin Forsett,RB,California,0,1,2,122,868,4088,19,6,3,196,1,218,302,1409,2,2,0,-60,1558,54,0
+2008,7,238,TAM,BoydCo01,Cory Boyd,RB,South Carolina,0,0,0,1,,,,,,,,,,,,,,,,,
+2008,7,240,BAL,PatrAl00,Allen Patrick,RB,Oklahoma,0,0,0,,,,,,,,,,,,,,,,,,
+2009,1,12,DEN,MoreKn00,Knowshon Moreno,RB,Georgia,0,0,3,63,928,3806,28,9,6,197,0,166,215,1484,10,2,2,268,1329,70,0
+2009,1,27,IND,BrowDo00,Donald Brown,RB,Connecticut,0,0,1,89,739,2993,19,2,0,137,1,128,174,1142,3,2,0,9,1203,44,0
+2009,1,31,ARI,WellCh00,Beanie Wells,RB,Ohio St.,0,0,2,51,644,2569,25,10,5,121,0,28,41,293,0,0,0,121,177,10,0
+2009,2,53,PHI,McCoLe01,LeSean McCoy,RB,Pittsburgh,2,6,10,170,2514,11324,74,21,12,562,2,533,687,4002,16,5,3,-376,4538,190,1
+2009,3,65,NYJ,GreeSh00,Shonn Greene,RB,Iowa,0,0,2,85,1093,4613,27,10,7,220,0,74,112,547,0,2,0,86,503,20,0
+2009,3,74,SFO,CoffGl00,Glen Coffee,RB,Alabama,0,0,0,14,83,226,1,0,0,8,0,11,18,76,0,0,0,-15,87,2,0
+2009,4,111,CAR,GoodMi00,Mike Goodson,RB,Texas A&M,0,0,0,42,167,783,3,5,3,29,0,61,81,543,1,0,0,-27,609,27,0
+2009,4,128,CAR,FiamTo00,Tony Fiammetta,RB,Syracuse,0,0,2,51,11,26,0,0,0,5,0,12,23,130,0,0,0,32,100,8,0
+2009,4,129,NYG,BrowAn03,Andre Brown,RB,North Carolina St.,0,0,1,22,214,876,11,3,3,56,2,32,46,189,0,0,0,29,190,5,0
+2009,4,134,SDG,JohnGa01,Gartrell Johnson,RB,Colorado St.,0,0,0,19,24,83,0,0,0,4,0,3,6,6,0,1,0,5,9,0,0
+2009,5,145,GNB,JohnQu00,Quinn Johnson,RB,LSU,0,0,1,44,4,5,0,0,0,2,0,14,21,104,0,0,0,19,88,6,0
+2009,5,169,PIT,SummFr00,Frank Summers,RB,UNLV,0,0,1,27,18,63,2,0,0,7,0,12,16,88,1,0,0,29,63,5,0
+2009,5,173,TEN,RingJa00,Javon Ringer,RB,Michigan St.,0,0,0,37,120,486,3,0,0,19,0,38,49,243,0,1,1,0,232,15,0
+2009,6,185,BAL,PeerCe00,Cedric Peerman,RB,Virginia,0,1,0,92,70,349,1,1,0,12,0,13,19,123,0,0,0,29,102,8,0
+2009,6,192,DET,BrowAa00,Aaron Brown,RB,TCU,0,0,0,22,45,189,0,0,0,9,0,18,29,138,1,0,0,59,110,8,0
+2009,6,195,CLE,DaviJa03,James Davis,RB,Clemson,0,0,0,9,28,75,0,0,0,1,0,8,10,50,0,0,0,-19,67,1,0
+2009,6,209,CIN,ScotBe00,Bernard Scott,RB,Abilene Christian,0,0,0,49,265,1060,4,1,0,56,0,34,44,204,0,0,0,-38,229,7,0
+2009,7,211,STL,OgboCh00,Chris Ogbonnaya,RB,Texas,0,0,1,53,158,710,2,3,2,33,0,96,141,714,2,2,2,127,640,33,0
+2009,7,212,KAN,WillJa05,Javarris Williams,RB,Tennessee St.,0,0,0,4,6,6,0,0,0,0,0,0,1,0,0,0,0,20,0,0,0
+2009,7,215,CIN,VakaFu00,Fui Vakapuna,RB,BYU,0,0,0,,,,,,,,,,,,,,,,,,
+2009,7,221,WAS,WillEd00,Eddie Williams,RB,Idaho,0,0,0,6,2,2,0,0,0,1,0,1,1,17,0,0,0,10,7,1,0
+2009,7,240,ARI,StepLa00,LaRod Stephens-Howling,RB,Pittsburgh,0,0,0,58,191,692,5,0,0,26,0,61,95,564,3,1,1,179,527,25,0
+2009,7,250,JAX,JennRa00,Rashad Jennings,RB,Liberty,0,0,5,93,935,3801,23,4,2,191,0,192,249,1473,2,3,2,-115,1681,53,1
+2010,1,9,BUF,SpilC.00,C.J. Spiller,RB,Clemson,0,1,3,90,712,3451,12,14,5,133,0,198,263,1484,9,2,1,243,1584,69,0
+2010,1,12,SDG,MathRy00,Ryan Mathews,RB,Fresno St.,0,1,5,86,1201,5336,37,20,12,255,2,181,229,1383,3,1,1,-93,1483,59,0
+2010,1,30,DET,BestJa00,Jahvid Best,RB,California,0,0,2,22,256,953,6,1,1,40,0,85,120,774,3,0,0,-67,898,27,0
+2010,2,51,MIN,GerhTo00,Toby Gerhart,RB,Stanford,0,0,0,82,397,1675,7,6,5,86,0,100,132,809,3,2,2,35,828,37,0
+2010,2,58,HOU,TateBe00,Ben Tate,RB,Auburn,0,0,0,51,556,2420,14,10,6,125,0,69,95,356,0,1,0,19,333,10,0
+2010,2,59,CLE,HardMo00,Montario Hardesty,RB,Tennessee,0,0,0,23,153,537,1,3,0,18,0,16,26,138,0,0,0,18,137,9,0
+2010,4,112,NYJ,McKnJo00,Joe McKnight,RB,USC,0,0,0,41,114,507,0,1,0,22,0,23,31,241,2,0,0,82,183,15,0
+2010,5,139,NYJ,ConnJo00,John Conner,RB,Kentucky,0,0,1,62,27,108,2,0,0,10,0,12,25,84,1,0,0,33,58,6,0
+2010,6,173,SFO,DixoAn00,Anthony Dixon,RB,Mississippi St.,0,0,0,96,281,944,13,1,0,46,0,24,27,150,0,0,0,66,118,7,0
+2010,6,174,WAS,,Dennis Morris,RB,Louisiana Tech,0,0,0,,,,,,,,,,,,,,,,,,
+2010,6,180,JAX,KariDe00,Deji Karim,RB,Southern Illinois,0,0,0,33,110,341,0,1,0,20,0,18,28,129,0,0,0,8,164,5,0
+2010,6,188,PIT,DwyeJo00,Jonathan Dwyer,RB,Georgia Tech,0,0,1,38,246,1022,3,2,2,48,0,29,40,184,0,0,0,79,169,10,0
+2010,6,193,GNB,StarJa00,James Starks,RB,Buffalo,0,0,0,76,739,3029,11,9,3,157,0,140,187,1085,6,2,1,-66,1276,43,0
+2010,6,200,PHI,,Charles Scott,RB,LSU,0,0,0,,,,,,,,,,,,,,,,,,
+2010,7,237,MIN,DImpRy00,Ryan D'Imperio,RB,Rutgers,0,0,0,12,0,0,0,0,0,0,0,2,6,7,0,0,0,22,4,1,0
+2011,1,28,NOR,IngrMa01,Mark Ingram,RB,Alabama,0,3,5,156,1889,8414,66,14,11,417,7,313,390,2182,10,6,4,-48,2280,107,0
+2011,2,38,ARI,WillRy00,Ryan Williams,RB,Virginia Tech,0,0,0,5,58,164,0,2,2,7,0,7,10,44,0,0,0,10,35,3,0
+2011,2,56,NWE,VereSh00,Shane Vereen,RB,California,0,0,1,79,382,1618,9,2,1,76,0,253,357,2188,13,3,2,917,1755,105,0
+2011,2,57,DET,LeshMi00,Mikel Leshoure,RB,Illinois,0,0,1,17,217,807,9,3,3,46,0,34,48,214,0,0,0,2,231,11,0
+2011,2,62,MIA,ThomDa03,Daniel Thomas,RB,Kansas St.,0,0,0,52,409,1480,10,6,4,65,1,55,74,412,3,0,0,28,414,24,0
+2011,3,71,DAL,MurrDe00,DeMarco Murray,RB,Oklahoma,1,3,7,99,1648,7372,51,15,11,376,0,311,382,2192,6,4,2,-69,2315,97,0
+2011,3,73,NWE,RidlSt00,Stevan Ridley,RB,LSU,0,0,1,73,799,3344,27,10,7,183,1,32,48,179,0,3,3,27,183,6,0
+2011,3,96,GNB,GreeAl00,Alex Green,RB,Hawaii,0,0,0,29,149,510,0,0,0,19,0,21,32,139,0,1,0,-50,189,6,0
+2011,4,105,WAS,HeluRo00,Roy Helu,RB,Nebraska,0,0,1,57,272,1171,7,2,1,63,0,138,171,1227,4,4,2,87,1216,44,0
+2011,4,115,SFO,HuntKe00,Kendall Hunter,RB,Oklahoma St.,0,0,0,45,287,1305,7,2,1,63,0,28,44,281,0,0,0,53,258,14,0
+2011,4,119,IND,CartDe01,Delone Carter,RB,Syracuse,0,0,0,27,133,499,5,3,3,30,0,6,10,31,0,1,0,-12,45,1,0
+2011,4,124,CLE,MareOw00,Owen Marecic,RB,Stanford,0,0,0,24,4,8,0,0,0,1,0,5,11,31,0,1,0,40,23,2,0
+2011,4,125,OAK,JoneTa00,Taiwan Jones,RB,Eastern Washington,0,0,0,139,53,223,0,1,0,10,0,21,30,308,1,1,0,73,329,12,0
+2011,4,126,NYJ,PoweBi00,Bilal Powell,RB,Louisville,0,0,3,109,850,3675,15,5,1,188,0,211,309,1600,5,3,2,253,1643,81,0
+2011,4,130,TEN,HarpJa01,Jamie Harper,RB,Clemson,0,0,0,23,36,74,4,1,1,8,0,5,7,40,0,0,0,21,41,1,0
+2011,5,133,BUF,WhitJo01,Johnny White,RB,North Carolina,0,0,0,19,20,72,0,0,0,2,0,1,4,-3,0,0,0,6,0,0,0
+2011,5,136,ARI,SherAn00,Anthony Sherman,RB,Connecticut,0,1,3,153,28,73,1,0,0,14,0,71,94,560,5,1,1,120,489,30,0
+2011,5,145,ATL,RodgJa00,Jacquizz Rodgers,RB,Oregon St.,0,0,0,110,565,2163,9,2,1,115,0,222,274,1616,5,2,2,161,1558,66,0
+2011,5,149,PHI,LewiDi00,Dion Lewis,RB,Pittsburgh,0,0,2,102,627,2647,14,5,3,133,0,214,273,1566,9,3,2,243,1598,65,0
+2011,6,177,WAS,RoysEv00,Evan Royster,RB,Penn St.,0,0,0,32,81,416,2,0,0,25,0,26,38,184,1,0,0,22,184,7,0
+2011,6,183,SDG,TodmJo00,Jordan Todman,RB,Connecticut,0,0,0,74,140,602,3,1,0,28,0,40,67,314,2,0,0,101,297,12,0
+2011,6,187,TAM,BradAl00,Allen Bradford,RB,USC,0,0,0,19,5,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,7,220,DAL,ChapSh00,Shaun Chapas,RB,Georgia,0,0,0,6,0,0,0,0,0,0,0,2,3,15,0,0,0,5,13,0,0
+2011,7,221,NYG,ScotDa01,Da'Rel Scott,RB,Maryland,0,0,0,20,31,98,0,1,1,5,0,13,21,115,1,0,0,7,117,3,0
+2011,7,223,KAN,BannSh00,Shane Bannon,RB,Yale,0,0,0,,,,,,,,,,,,,,,,,,
+2011,7,225,BAL,AlleAn01,Anthony Allen,RB,Georgia Tech,0,0,0,21,19,69,1,0,0,4,0,2,4,12,0,0,0,10,14,1,0
+2011,7,232,PIT,BatcBa00,Baron Batch,RB,Texas Tech,0,0,0,12,25,49,1,0,0,4,0,4,5,31,0,0,0,20,30,3,0
+2011,7,240,PHI,HaviSt00,Stanley Havili,RB,USC,0,0,1,28,13,29,1,0,0,2,0,26,36,175,1,0,0,68,138,7,0
+2011,7,246,CIN,FinlJa00,Jay Finley,RB,Baylor,0,0,0,,,,,,,,,,,,,,,,,,
+2012,1,3,CLE,RichTr00,Trent Richardson,RB,Alabama,0,0,3,46,618,2033,17,8,3,89,0,113,156,912,2,0,0,-119,983,42,0
+2012,1,31,TAM,MartDo00,Doug Martin,RB,Boise St.,1,2,7,84,1322,5356,30,11,10,239,1,148,216,1207,2,1,1,387,1048,48,0
+2012,1,32,NYG,WilsDa01,David Wilson,RB,Virginia Tech,0,0,0,21,115,504,5,3,3,27,0,6,15,42,1,0,0,59,25,2,0
+2012,2,50,STL,PeadIs00,Isaiah Pead,RB,Cincinnati,0,0,0,30,27,100,0,1,1,4,0,15,20,100,0,1,0,42,96,2,1
+2012,2,61,SFO,JameLa00,LaMichael James,RB,Oregon,0,0,0,18,56,258,1,2,1,13,0,7,11,56,0,0,0,19,39,4,0
+2012,3,67,DEN,HillRo00,Ronnie Hillman,RB,San Diego St.,0,0,1,56,550,2121,12,7,3,110,0,78,118,551,1,1,0,157,487,23,0
+2012,3,84,BAL,PierBe00,Bernard Pierce,RB,Temple,0,0,0,52,400,1554,6,1,1,72,0,33,48,179,0,0,0,37,179,8,0
+2012,4,97,MIA,MillLa01,Lamar Miller,RB,Miami (FL),0,1,6,106,1409,6029,33,7,5,272,0,223,292,1649,8,2,2,253,1585,72,0
+2012,4,106,SEA,TurbRo00,Robert Turbin,RB,Utah St.,0,0,0,82,392,1482,9,2,2,84,0,91,121,738,3,0,0,39,728,32,0
+2012,4,128,MIN,ElliRh00,Rhett Ellison,RB,USC,0,0,4,113,1,1,1,0,0,1,0,118,173,1189,7,0,0,694,768,55,2
+2012,5,157,ATL,EwinBr00,Bradie Ewing,RB,Wisconsin,0,0,0,2,0,0,0,0,0,0,0,2,2,29,0,0,0,4,25,2,0
+2012,5,159,PIT,RainCh00,Chris Rainey,RB,Florida,0,0,0,18,26,102,2,0,0,5,0,14,23,60,0,3,1,-9,81,1,0
+2012,5,170,IND,BallVi00,Vick Ballard,RB,Mississippi St.,0,0,1,17,246,968,2,3,0,56,0,19,31,150,1,0,0,90,120,8,0
+2012,6,173,WAS,MorrAl00,Alfred Morris,RB,Florida Atlantic,0,2,4,114,1456,6303,35,13,8,304,0,68,99,513,1,0,0,54,475,23,0
+2012,6,182,KAN,GrayCy00,Cyrus Gray,RB,Texas A&M,0,0,0,35,26,104,1,0,0,5,0,9,14,64,0,0,0,62,64,2,0
+2012,6,191,CIN,HerrDa00,Dan Herron,RB,Ohio St.,0,0,0,35,157,638,3,3,1,33,0,51,61,405,0,2,2,36,411,14,0
+2012,6,202,NYJ,GanaTe00,Terrance Ganaway,RB,Baylor,0,0,0,3,,,,,,,,,,,,,,,,,
+2012,7,212,TAM,SmitMi01,Michael Smith,RB,Utah St.,0,0,0,1,,,,,,,,,,,,,,,,,
+2012,7,229,PHI,BrowBr02,Bryce Brown,RB,Kansas St.,0,0,0,42,251,1076,7,5,3,61,1,37,59,316,0,0,0,52,362,13,0
+2012,7,250,SDG,BakeEd01,Edwin Baker,RB,Michigan St.,0,0,0,6,44,173,2,0,0,12,0,8,9,57,0,0,0,-8,66,3,0
+2012,7,252,STL,RichDa00,Daryl Richardson,RB,Abilene Christian,0,0,0,27,169,697,0,2,2,31,1,38,54,284,0,1,0,-26,302,10,0
+2013,2,37,CIN,BernGi00,Giovani Bernard,RB,North Carolina,0,0,2,135,971,3906,23,3,2,188,0,389,519,3141,14,7,4,265,3106,131,0
+2013,2,48,PIT,BellLe00,Le'Veon Bell,RB,Michigan St.,2,3,5,96,1678,6984,45,6,4,380,1,413,526,3388,10,4,1,324,3451,156,2
+2013,2,58,DEN,BallMo00,Montee Ball,RB,Wisconsin,0,0,0,21,203,827,5,3,3,53,0,34,47,222,0,1,1,79,210,13,0
+2013,2,61,GNB,LacyEd00,Eddie Lacy,RB,Alabama,0,1,3,60,942,4021,24,8,6,200,0,112,149,966,6,1,0,-123,1075,39,0
+2013,2,62,SEA,MichCh00,Christine Michael,RB,Texas A&M,0,0,1,38,293,1217,7,2,0,67,0,28,41,152,1,1,1,15,174,6,0
+2013,3,96,KAN,DaviKn00,Knile Davis,RB,Arkansas,0,0,0,57,278,914,12,4,3,46,0,43,60,317,2,3,1,14,332,15,0
+2013,4,125,GNB,FranJo01,Johnathan Franklin,RB,UCLA,0,0,0,11,19,107,1,2,1,7,0,4,5,30,0,0,0,26,27,2,0
+2013,4,130,BAL,JuszKy00,Kyle Juszczyk,RB,Harvard,1,8,10,173,68,238,5,1,1,34,0,284,377,2698,17,7,5,1449,1751,129,1
+2013,4,131,SFO,LattMa00,Marcus Lattimore,RB,South Carolina,0,0,0,,,,,,,,,,,,,,,,,,
+2013,5,140,ARI,TaylSt00,Stepfan Taylor,RB,Stanford,0,0,0,61,123,396,1,0,0,25,1,20,27,154,3,0,0,65,125,7,0
+2013,5,151,DAL,RandJo01,Joseph Randle,RB,Oklahoma St.,0,0,0,35,183,837,9,3,2,35,0,22,25,170,0,0,0,9,166,9,0
+2013,5,154,WAS,ThomCh03,Chris Thompson,RB,Florida St.,0,0,0,74,258,1239,5,4,1,53,0,245,321,2091,11,3,0,727,1697,96,0
+2013,5,160,STL,StacZa00,Zac Stacy,RB,Vanderbilt,0,0,1,35,357,1355,9,3,3,64,0,53,70,358,1,0,0,-15,386,20,0
+2013,5,164,MIA,GillMi00,Mike Gillislee,RB,Florida,0,0,0,36,274,1291,16,3,3,75,0,17,20,103,1,0,0,17,104,4,0
+2013,6,181,OAK,MurrLa00,Latavius Murray,RB,Central Florida,0,1,3,151,1606,6689,61,9,2,372,1,252,319,1715,3,2,0,-116,1860,68,1
+2013,6,182,CAR,BarnKe00,Kenjon Barner,RB,Oregon,0,0,0,76,104,416,3,1,1,22,0,28,44,152,0,0,0,-19,181,6,0
+2013,6,187,ARI,ElliAn00,Andre Ellington,RB,Clemson,0,0,1,65,422,1755,10,4,3,72,0,151,225,1368,3,0,0,775,1010,68,0
+2013,6,189,TAM,JameMi00,Mike James,RB,Miami (FL),0,0,0,23,83,351,0,0,0,19,0,15,16,60,0,0,0,0,59,1,0
+2013,6,190,CIN,BurkRe00,Rex Burkhead,RB,Nebraska,0,0,0,115,520,2058,20,4,1,128,0,207,271,1696,9,3,3,640,1450,74,0
+2013,6,194,SEA,WareSp00,Spencer Ware,RB,LSU,0,0,1,43,381,1733,13,3,2,91,0,67,83,720,2,2,0,148,671,28,0
+2013,6,199,DET,RiddTh00,Theo Riddick,RB,Notre Dame,0,0,1,88,294,1037,5,2,2,49,0,294,382,2320,14,0,0,371,2272,106,0
+2013,7,215,NYJ,BohaTo00,Tommy Bohanon,RB,Wake Forest,0,0,1,68,26,72,2,0,0,7,0,31,49,273,2,0,0,86,209,15,0
+2013,7,228,WAS,JamiJa00,Jawan Jamison,RB,Rutgers,0,0,0,,,,,,,,,,,,,,,,,,
+2013,7,230,IND,WillKe05,Kerwynn Williams,RB,Utah St.,0,0,0,40,228,994,4,2,1,46,0,18,28,126,0,0,0,134,81,7,0
+2013,7,253,NYG,CoxxMi00,Michael Cox,RB,Massachusetts,0,0,0,18,26,76,0,0,0,2,0,5,6,21,0,0,0,-12,32,1,0
+2014,2,54,TEN,SankBi00,Bishop Sankey,RB,Washington,0,0,1,29,199,762,3,3,2,31,0,32,45,272,1,0,0,-3,285,13,0
+2014,2,55,CIN,HillJe01,Jeremy Hill,RB,LSU,0,0,3,55,733,2995,31,9,6,160,1,71,87,517,1,1,0,-15,525,21,0
+2014,2,57,SFO,HydeCa00,Carlos Hyde,RB,Ohio St.,0,0,4,102,1258,5076,37,16,9,253,1,161,230,890,4,2,1,349,906,40,0
+2014,3,69,TAM,SimsCh00,Charles Sims,RB,West Virginia,0,0,0,47,245,958,2,4,3,42,0,129,176,1190,6,2,2,477,1054,49,0
+2014,3,75,STL,MasoTr00,Tre Mason,RB,Auburn,0,0,1,25,254,972,5,5,2,47,0,34,47,236,1,0,0,-31,283,12,0
+2014,3,94,CLE,WestTe00,Terrance West,RB,Towson,0,0,2,43,465,1816,11,6,4,86,0,51,67,344,2,0,0,69,326,16,0
+2014,3,96,MIN,McKiJe00,Jerick McKinnon,RB,Georgia Southern,0,0,1,116,733,2941,15,3,2,130,2,307,407,2374,21,1,1,222,2519,128,1
+2014,4,103,ATL,FreeDe00,Devonta Freeman,RB,Florida St.,0,2,4,98,1205,4955,41,10,5,271,0,314,394,2460,14,2,2,685,2042,104,0
+2014,4,113,NYG,WillAn00,Andre Williams,RB,Boston Col.,0,0,0,41,332,1090,8,1,0,47,1,19,42,137,0,0,0,-16,150,6,0
+2014,4,117,CHI,CareKa00,Ka'Deem Carey,RB,Arizona,0,0,0,37,111,443,2,1,1,28,0,13,16,131,1,0,0,27,111,8,0
+2014,4,124,KAN,ThomDe05,De'Anthony Thomas,RB,Oregon,0,0,0,69,31,191,2,0,0,9,0,65,87,509,4,0,0,263,448,22,0
+2014,4,130,NWE,WhitJa02,James White,RB,Wisconsin,0,0,0,95,355,1424,16,1,0,77,2,440,601,3784,28,1,0,1161,3352,192,0
+2014,4,138,BAL,TaliLo00,Lorenzo Taliaferro,RB,Coastal Carolina,0,0,0,19,82,339,5,1,1,19,0,16,18,153,0,0,0,37,135,4,0
+2014,6,181,HOU,BlueAl00,Alfred Blue,RB,LSU,0,0,1,73,695,2520,8,4,2,124,0,71,89,481,2,0,0,198,330,18,0
+2014,6,186,WAS,SeasLa00,Lache Seastrunk,RB,Baylor,0,0,0,,,,,,,,,,,,,,,,,,
+2014,6,201,SDG,GricMa00,Marion Grice,RB,Arizona St.,0,0,0,10,16,42,2,0,0,4,0,7,11,29,0,0,0,1,41,3,0
+2014,6,204,CAR,GaffTy00,Tyler Gaffney,RB,Stanford,0,0,0,,,,,,,,,,,,,,,,,,
+2014,7,222,JAX,JohnSt03,Storm Johnson,RB,Central Florida,0,0,0,6,29,86,2,0,0,5,0,1,1,-4,0,0,0,-4,0,0,0
+2014,7,227,SEA,SmalKi00,Kiero Small,RB,Arkansas,0,0,0,3,,,,,,,,,,,,,,,,,
+2015,1,10,STL,GurlTo01,Todd Gurley,RB,Georgia,2,3,6,88,1504,6343,69,14,5,335,3,251,353,2269,12,2,1,280,2231,97,1
+2015,1,15,SDG,GordMe00,Melvin Gordon,RB,Wisconsin,0,2,7,112,1619,6598,58,21,16,355,1,314,418,2527,14,6,3,-50,2615,114,1
+2015,2,36,JAX,YeldT.00,T.J. Yeldon,RB,Alabama,0,0,2,60,507,2069,7,7,4,81,0,194,263,1552,7,0,0,187,1502,76,0
+2015,2,54,DET,AbduAm00,Ameer Abdullah,RB,Nebraska,0,0,2,126,431,1693,6,6,3,81,0,168,226,1228,8,0,0,244,1186,63,0
+2015,3,73,ATL,ColeTe01,Tevin Coleman,RB,Indiana,0,0,2,94,875,3707,28,6,3,175,0,143,201,1425,15,1,0,380,1288,66,0
+2015,3,77,CLE,JohnDu00,Duke Johnson,RB,Miami (FL),0,0,0,97,536,2314,11,5,4,121,2,319,416,2923,12,6,2,825,2606,134,0
+2015,3,86,ARI,JohnDa08,David Johnson,RB,Northern Iowa,1,1,3,92,1038,4171,40,12,8,231,1,324,466,3221,19,7,3,1577,2408,155,2
+2015,3,95,WAS,JoneMa04,Matt Jones,RB,Florida,0,0,0,25,261,1009,6,8,5,61,0,201,207,2661,17,3,2,1321,819,138,0
+2015,4,106,CHI,LangJe00,Jeremy Langford,RB,Michigan St.,0,0,0,29,219,762,10,2,2,41,1,41,69,421,1,0,0,247,358,16,0
+2015,4,125,BAL,AlleJa01,Javorius Allen,RB,USC,0,0,0,64,350,1285,9,2,2,79,0,130,171,823,6,1,1,224,735,45,0
+2015,4,126,SFO,DaviMi01,Mike Davis,RB,South Carolina,0,0,2,87,562,2062,14,5,3,107,1,173,218,1088,4,2,2,-111,1251,48,0
+2015,5,138,TEN,CobbDa00,David Cobb,RB,Minnesota,0,0,0,7,52,146,1,0,0,6,0,1,2,-2,0,0,0,-4,3,0,0
+2015,5,149,MIA,AjayJa00,Jay Ajayi,RB,Boise St.,0,1,2,45,630,2763,13,9,5,128,2,72,98,501,1,0,0,20,524,25,0
+2015,5,155,BUF,WillKa01,Karlos Williams,RB,Florida St.,0,0,0,11,93,517,7,1,0,25,0,11,14,96,2,1,1,67,44,3,0
+2015,5,174,CAR,ArtiCa00,Cameron Artis-Payne,RB,Auburn,0,0,0,32,121,498,5,1,0,24,0,11,12,87,0,0,0,-18,100,6,0
+2015,6,205,IND,RobiJo02,Josh Robinson,RB,Mississippi St.,0,0,0,5,17,39,0,1,1,0,0,6,6,33,0,0,0,-4,37,2,0
+2015,7,230,NOR,MurpMa03,Marcus Murphy,RB,Missouri,0,0,0,28,60,291,0,0,0,9,0,14,22,36,0,0,0,25,48,3,0
+2015,7,235,HOU,HillKe01,Kenny Hilliard,RB,LSU,0,0,0,,,,,,,,,,,,,,,,,,
+2016,1,4,DAL,ElliEz00,Ezekiel Elliott,RB,Ohio St.,1,3,7,121,2192,9378,74,22,10,528,3,373,497,2750,14,2,2,33,2893,117,1
+2016,2,45,TEN,HenrDe00,Derrick Henry,RB,Alabama,1,4,5,120,2242,10515,98,15,7,515,2,170,220,1581,3,3,2,-163,1694,51,0
+2016,3,73,MIA,DrakKe00,Kenyan Drake,RB,Alabama,0,0,2,104,867,3834,33,10,5,197,1,218,300,1655,8,1,1,168,1705,72,1
+2016,3,90,SEA,ProsC.00,C.J. Prosise,RB,Notre Dame,0,0,0,35,75,283,2,2,2,8,0,41,50,411,1,0,0,246,270,15,0
+2016,4,119,HOU,ErviTy00,Tyler Ervin,RB,San Jose St.,0,0,0,43,21,117,0,0,0,7,0,28,39,193,0,0,0,156,138,9,0
+2016,4,134,BAL,DixoKe00,Kenneth Dixon,RB,Louisiana Tech,0,0,0,18,154,728,4,4,2,46,0,39,51,266,1,0,0,-11,284,11,0
+2016,4,136,DEN,BookDe00,Devontae Booker,RB,Utah,0,0,0,93,527,2119,11,4,1,104,0,162,209,1224,2,4,4,246,1148,44,0
+2016,5,143,OAK,WashDe00,DeAndre Washington,RB,Texas Tech,0,0,0,59,317,1229,7,3,2,62,0,93,121,643,1,1,1,128,556,30,0
+2016,5,149,NYG,PerkPa00,Paul Perkins,RB,UCLA,0,0,0,29,175,605,0,1,0,29,0,27,40,244,0,0,0,11,270,8,0
+2016,5,150,CHI,HowaJo00,Jordan Howard,RB,Indiana,0,1,3,73,1029,4397,37,4,3,245,0,86,131,660,2,2,0,53,662,28,0
+2016,5,153,PHI,SmalWe00,Wendell Smallwood,RB,West Virginia,0,0,1,56,256,1009,5,2,1,58,1,63,88,500,2,1,1,52,470,22,0
+2016,5,156,BUF,WillJo07,Jonathan Williams,RB,Arkansas,0,0,0,47,135,563,3,3,3,32,0,22,29,149,0,0,0,-21,163,9,0
+2016,5,171,SEA,CollAl00,Alex Collins,RB,Arkansas,0,0,2,50,491,2024,18,7,6,109,0,62,85,495,1,3,1,64,491,25,0
+2016,6,182,BAL,ReynKe00,Keenan Reynolds,RB,Navy,0,0,0,2,,,,,,,,,,,,,,,,,
+2016,6,211,SFO,TaylKe01,Kelvin Taylor,RB,Florida,0,0,0,,,,,,,,,,,,,,,,,,
+2016,6,216,DAL,JackDa01,Darius Jackson,RB,Eastern Michigan,0,0,0,4,6,16,0,0,0,0,0,0,1,0,0,0,0,-1,0,0,0
+2016,7,236,DET,WashDw00,Dwayne Washington,RB,Washington,0,0,0,96,169,594,1,0,0,23,0,16,21,101,0,0,0,-4,115,6,0
+2016,7,237,NOR,LascDa00,Daniel Lasco,RB,California,0,0,0,10,11,32,0,0,0,1,0,2,4,11,0,0,0,0,13,0,0
+2016,7,242,WAS,MarsKe00,Keith Marshall,RB,Georgia,0,0,0,,,,,,,,,,,,,,,,,,
+2016,7,247,SEA,BrooZa00,Zac Brooks,RB,Clemson,0,0,0,,,,,,,,,,,,,,,,,,
+2022,2,36,NYJ,HallBr03,Breece Hall,RB,Iowa St.,0,0,1,25,349,1627,11,3,0,69,1,111,145,929,6,2,2,132,916,40,0
+2022,2,41,SEA,WalkKe00,Kenneth Walker III,RB,Michigan St.,0,0,2,31,,,,,,,,,,,,,,,,,
+2022,2,63,BUF,CookJa01,James Cook,RB,Georgia,0,1,1,34,420,2009,8,4,2,98,0,81,104,748,6,1,1,235,665,27,0
+2022,3,91,TAM,WhitRa01,Rachaad White,RB,Arizona St.,0,0,1,35,466,1705,7,3,2,87,0,135,155,1012,6,2,2,-110,1158,44,0
+2022,3,93,SFO,DaviTy03,Tyrion Davis-Price,RB,LSU,0,0,0,7,40,120,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0
+2022,3,98,WAS,RobiBr01,Brian Robinson Jr.,RB,Alabama,0,0,2,28,,,,,,,,,,,,,,,,,
+2022,4,107,HOU,PierDa01,Dameon Pierce,RB,Florida,0,0,1,28,371,1371,6,4,2,69,0,43,56,266,1,0,0,3,292,10,0
+2022,4,122,LVR,WhitZa01,Zamir White,RB,Georgia,0,0,0,32,153,623,1,2,2,25,0,20,25,114,0,0,0,-10,124,5,0
+2022,4,123,LAC,SpilIs00,Isaiah Spiller,RB,Texas A&M,0,0,0,15,55,137,0,0,0,3,0,9,9,47,0,0,0,-15,62,1,0
+2022,4,127,NWE,StroPi00,Pierre Strong,RB,South Dakota St.,0,0,0,33,76,396,2,1,1,16,0,15,20,119,0,0,0,8,140,5,0
+2022,4,131,TEN,HaskHa00,Hassan Haskins,RB,Michigan,0,0,0,16,28,104,0,0,0,6,0,11,12,57,0,0,0,-6,58,2,0
+2022,5,151,ATL,AllgTy00,Tyler Allgeier,RB,BYU,0,0,0,34,415,1824,7,0,0,98,1,35,41,344,2,0,0,-49,391,15,1
+2022,5,154,JAX,ConnSn00,Snoop Conner,RB,Mississippi,0,0,0,8,12,42,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2022,5,156,CLE,FordJe00,Jerome Ford,RB,Cincinnati,0,0,1,31,250,987,5,0,0,43,1,58,80,392,5,0,0,37,394,19,0
+2022,5,164,LAR,WillKy02,Kyren Williams,RB,Notre Dame,0,1,1,23,330,1508,16,2,1,85,1,51,71,349,4,1,1,24,419,16,0
+2022,5,169,MIN,ChanTy01,Ty Chandler,RB,North Carolina,0,0,0,21,133,593,3,0,0,26,0,24,28,184,0,0,0,-50,234,9,0
+2022,6,183,NWE,HarrKe01,Kevin Harris,RB,South Carolina,0,0,0,9,34,117,2,0,0,5,0,3,3,58,0,0,0,-1,59,2,0
+2022,6,196,BAL,BadiTy00,Tyler Badie,RB,Missouri,0,0,0,1,11,86,0,0,0,4,0,2,2,26,1,0,0,-5,31,1,0
+2022,6,201,ARI,IngrKe01,Keaontay Ingram,RB,USC,0,0,0,20,62,134,1,0,0,8,0,8,9,47,0,0,0,-16,63,2,0
+2022,6,203,CHI,EbneTr00,Trestan Ebner,RB,Baylor,0,0,0,17,24,54,0,0,0,2,0,2,8,8,0,0,0,8,-1,0,0
+2022,7,250,LVR,BrowBr06,Brittain Brown,RB,UCLA,0,0,0,6,,,,,,,,,,,,,,,,,
+2022,7,251,KAN,PachIs00,Isiah Pacheco,RB,Rutgers,0,0,2,32,527,2410,17,6,4,119,0,82,90,553,2,0,0,-175,762,27,0
+2022,7,260,LAC,HorvZa00,Zander Horvath,RB,Purdue,0,0,0,15,4,8,0,0,0,2,0,5,8,8,2,0,0,6,1,2,0
+2021,1,24,PIT,HarrNa00,Najee Harris,RB,Alabama,0,1,3,52,913,3544,22,4,2,167,0,155,199,910,6,2,2,80,936,48,0
+2021,1,25,JAX,EtieTr00,Travis Etienne,RB,Clemson,0,0,2,35,553,2468,19,4,4,125,3,106,135,860,1,2,1,-47,960,43,0
+2021,2,35,DEN,WillJa10,Javonte Williams,RB,North Carolina,0,0,1,38,491,1933,7,4,3,104,1,116,144,697,5,1,1,-135,844,28,1
+2021,3,88,SFO,SermTr00,Trey Sermon,RB,Ohio St.,0,0,0,26,82,362,2,0,0,20,0,7,11,46,0,0,0,22,30,1,0
+2021,4,107,NYJ,CartMi03,Michael Carter,RB,North Carolina,0,0,2,45,291,1228,7,1,1,52,0,101,140,714,1,1,1,98,702,34,0
+2021,4,119,MIN,NwanKe00,Kene Nwangwu,RB,Iowa St.,0,0,0,37,27,88,0,0,0,4,0,6,7,30,0,0,0,-6,40,1,0
+2021,4,120,NWE,StevRh00,Rhamondre Stevenson,RB,Oklahoma,0,0,1,42,559,2516,16,7,3,131,0,130,169,830,1,3,1,8,949,26,0
+2021,4,126,CAR,HubbCh01,Chuba Hubbard,RB,Oklahoma St.,0,0,1,50,542,2172,12,1,1,129,0,87,108,645,2,2,0,-46,695,27,0
+2021,5,150,PHI,GainKe00,Kenneth Gainwell,RB,Memphis,0,0,0,50,246,1093,12,4,2,69,2,103,136,741,2,0,0,191,686,36,0
+2021,6,194,SFO,MitcEl00,Elijah Mitchell,RB,Louisiana,0,0,0,27,411,1760,11,0,0,88,0,37,44,240,2,0,0,-38,272,14,0
+2021,6,196,NYG,BrigGa00,Gary Brightwell,RB,Arizona,0,0,0,37,42,174,1,0,0,10,0,11,16,92,0,0,0,2,93,6,0
+2021,6,198,LAC,RounLa00,Larry Rountree,RB,Missouri,0,0,0,16,49,106,1,0,0,5,0,3,4,13,0,0,0,-18,31,1,0
+2021,6,202,CIN,EvanCh02,Chris Evans,RB,Michigan,0,0,0,34,21,102,0,0,0,3,0,20,24,191,3,0,0,125,124,9,0
+2021,6,211,CLE,FeltDe00,Demetric Felton,RB,UCLA,0,0,0,24,8,20,0,0,0,0,0,20,25,189,2,0,0,25,212,10,0
+2021,6,217,CHI,HerbKh00,Khalil Herbert,RB,Virginia Tech,0,0,1,43,372,1791,9,0,0,78,1,45,61,291,2,1,1,-19,326,17,0
+2021,7,233,LAR,FunkJa00,Jake Funk,RB,Maryland,0,0,0,20,6,20,0,0,0,0,0,1,1,12,0,0,0,0,12,1,0
+2021,7,244,MIA,DoakGe00,Gerrid Doaks,RB,Cincinnati,0,0,0,,,,,,,,,,,,,,,,,,
+2021,7,256,GNB,HillKy00,Kylin Hill,RB,Mississippi St.,0,0,0,10,11,31,0,0,0,2,0,1,2,5,0,0,0,-3,7,0,0
+2021,7,257,DET,JeffJe00,Jermar Jefferson,RB,Oregon St.,0,0,0,7,15,74,2,0,0,4,0,4,5,23,0,0,0,1,21,2,0
+2020,1,32,KAN,EdwaCl00,Clyde Edwards-Helaire,RB,LSU,0,0,1,48,480,2065,13,3,3,100,0,98,135,808,7,0,0,-57,891,40,1
+2020,2,35,DET,SwifDA00,D'Andre Swift,RB,Georgia,0,1,1,57,640,2831,23,4,2,133,1,205,268,1490,8,5,2,99,1652,61,1
+2020,2,41,IND,TaylJo02,Jonathan Taylor,RB,Wisconsin,1,1,3,54,997,4921,44,8,6,280,0,128,163,1018,4,2,0,-194,1226,37,0
+2020,2,52,LAR,AkerCa00,Cam Akers,RB,Florida St.,0,0,1,36,527,2027,13,6,6,98,0,51,64,458,2,0,0,134,419,20,1
+2020,2,55,BAL,DobbJK00,J.K. Dobbins,RB,Ohio St.,0,0,0,25,308,1804,15,2,0,88,1,42,53,279,2,0,0,36,269,13,1
+2020,2,62,GNB,DillAJ00,AJ Dillon,RB,Boston Col.,0,0,0,60,,,,,,,,,,,,,,,,,
+2020,3,66,WAS,GibsAn00,Antonio Gibson,RB,Memphis,0,0,2,62,679,2817,22,7,4,159,1,178,220,1302,7,5,4,14,1340,59,0
+2020,3,76,TAM,VaugKe00,Ke'Shawn Vaughn,RB,Illinois,0,0,0,43,125,458,3,1,1,22,0,16,30,90,1,1,1,23,77,4,0
+2020,3,86,BUF,MossZa00,Zack Moss,RB,Utah,0,0,0,54,525,2233,16,1,1,125,0,87,115,618,4,2,1,64,598,35,1
+2020,3,93,TEN,EvanDa02,Darrynton Evans,RB,Appalachian St.,0,0,0,19,63,247,1,0,0,15,0,12,19,120,1,0,0,-18,144,6,0
+2020,4,112,LAC,KellJo01,Joshua Kelley,RB,UCLA,0,0,0,54,327,1168,6,4,4,62,0,51,67,327,0,0,0,55,335,14,0
+2020,4,120,NYJ,PeriLa00,La'Mical Perine,RB,Florida,0,0,0,17,94,340,2,0,0,22,0,14,20,96,0,0,0,28,99,4,0
+2020,4,124,PIT,McFaAn00,Anthony McFarland Jr.,RB,Maryland,0,0,0,17,,,,,,,,,,,,,,,,,
+2020,4,144,SEA,DallDe00,DeeJay Dallas,RB,Miami (FL),0,0,0,62,118,481,4,0,0,30,0,61,71,396,1,1,0,36,377,15,0
+2020,5,172,DET,HuntJa01,Jason Huntley,RB,New Mexico St.,0,0,0,6,18,70,0,0,0,3,0,1,3,0,0,0,0,-1,1,0,0
+2020,7,222,ARI,BenjEn00,Eno Benjamin,RB,Arizona St.,0,0,0,24,115,439,3,0,0,18,1,33,43,261,0,0,0,-50,313,16,0
+2020,7,245,TAM,CalaRa00,Raymond Calais,RB,Louisiana,0,0,0,4,,,,,,,,,,,,,,,,,
+2020,7,246,MIA,PerrMa00,Malcolm Perry,RB,Navy,0,0,0,9,3,5,0,0,0,1,0,9,13,92,1,0,0,114,33,4,0
+2019,1,24,OAK,JacoJo01,Josh Jacobs,RB,Alabama,1,2,5,74,1380,5906,46,11,7,302,0,204,263,1517,0,2,1,38,1559,65,0
+2019,2,53,PHI,SandMi01,Miles Sanders,RB,Penn St.,0,1,4,74,943,4432,24,11,7,201,4,163,233,1137,3,1,1,279,1163,43,0
+2019,3,70,LAR,HendDa00,Darrell Henderson,RB,Memphis,0,0,1,54,446,1861,15,0,0,108,0,79,111,616,4,0,0,124,637,27,0
+2019,3,73,CHI,MontDa01,David Montgomery,RB,Iowa St.,0,0,4,75,1236,5069,44,7,5,292,2,185,234,1456,4,2,2,243,1349,72,0
+2019,3,74,BUF,SingDe00,Devin Singletary,RB,Florida Atlantic,0,0,5,79,1037,4659,26,13,7,241,0,219,284,1483,4,3,0,102,1556,60,0
+2019,3,87,NWE,HarrDa06,Damien Harris,RB,Alabama,0,0,3,44,481,2218,21,3,2,118,0,43,54,304,0,0,0,21,292,12,0
+2019,3,102,MIN,MattAl01,Alexander Mattison,RB,Boise St.,0,0,1,76,602,2420,13,4,4,123,0,109,140,810,7,0,0,44,822,31,0
+2019,4,112,WAS,LoveBr00,Bryce Love,RB,Stanford,0,0,0,,,,,,,,,,,,,,,,,,
+2019,4,113,BAL,HillJu00,Justice Hill,RB,Oklahoma St.,0,0,0,60,229,1061,5,1,1,53,0,75,100,518,1,2,1,12,604,24,0
+2019,4,122,PIT,SnelBe00,Benny Snell Jr.,RB,Kentucky,0,0,0,63,,,,,,,,,,,,,,,,,
+2019,4,128,DAL,PollTo00,Tony Pollard,RB,Memphis,0,1,1,80,841,3948,25,2,2,197,2,201,259,1450,5,4,0,96,1494,63,0
+2019,5,140,JAX,ArmsRy00,Ryquell Armstead,RB,Temple,0,0,0,18,50,188,0,0,0,8,0,17,28,160,2,0,0,44,132,10,0
+2019,5,152,ATL,OlliQa00,Qadree Ollison,RB,Pittsburgh,0,0,0,24,44,158,5,2,1,14,0,5,8,19,0,0,0,3,10,2,0
+2019,5,154,CAR,ScarJo00,Jordan Scarlett,RB,Florida,0,0,0,10,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,6,182,CIN,WillTr06,Trayveon Williams,RB,Texas A&M,0,0,0,52,62,307,0,1,1,12,0,15,19,74,0,0,0,-26,95,2,0
+2019,6,186,DET,JohnTy02,Ty Johnson,RB,Maryland,0,0,0,73,259,1147,4,2,1,55,0,98,147,805,5,1,1,380,707,39,0
+2019,6,194,GNB,WillDe07,Dexter Williams,RB,Notre Dame,0,0,0,7,7,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,6,204,SEA,HomeTr00,Travis Homer,RB,Miami (FL),0,0,0,66,100,494,1,1,0,22,0,55,66,496,2,1,1,75,443,24,0
+2019,6,211,CIN,AndeRo02,Rodney Anderson,RB,Oklahoma,0,0,0,,,,,,,,,,,,,,,,,,
+2019,6,214,KAN,ThomDa06,Darwin Thompson,RB,Utah St.,0,0,0,26,66,232,2,1,1,17,0,16,23,108,1,1,0,-42,150,5,0
+2019,7,218,DAL,WebeMi00,Mike Weber,RB,Ohio St.,0,0,0,,,,,,,,,,,,,,,,,,
+2019,7,220,HOU,GillCu00,Cullen Gillaspia,RB,Texas A&M,0,0,0,44,0,0,0,0,0,0,0,1,1,6,0,0,0,-2,8,0,0
+2019,7,222,CHI,WhytKe00,Kerrith Whyte Jr,RB,Florida Atlantic,0,0,0,6,,,,,,,,,,,,,,,,,
+2019,7,233,MIA,CoxxCh01,Chandler Cox,RB,Auburn,0,0,0,21,0,0,0,0,0,0,0,2,2,9,0,0,0,2,7,1,0
+2019,7,234,MIA,GaskMy00,Myles Gaskin,RB,Washington,0,0,1,42,362,1352,7,4,3,61,0,101,128,701,6,0,0,61,704,27,0
+2018,1,2,NYG,BarkSa00,Saquon Barkley,RB,Penn St.,0,2,5,75,1282,5676,41,4,3,256,4,305,416,2230,13,2,0,266,2348,95,1
+2018,1,27,SEA,PennRa00,Rashaad Penny,RB,San Diego St.,0,0,0,45,352,1980,13,2,1,81,0,28,37,227,1,0,0,2,260,11,0
+2018,1,31,NWE,MichSo00,Sony Michel,RB,Georgia,0,0,2,65,890,3720,24,4,3,210,0,62,95,449,2,0,0,-16,486,22,0
+2018,2,35,CLE,ChubNi00,Nick Chubb,RB,Georgia,0,4,5,77,1270,6675,48,6,5,311,1,129,171,1084,5,1,1,69,1179,48,0
+2018,2,38,TAM,JoneRo01,Ronald Jones II,RB,USC,0,0,2,61,,,,,,,,,,,,,,,,,
+2018,2,43,DET,JohnKe06,Kerryon Johnson,RB,Auburn,0,0,1,35,283,1225,8,3,3,63,0,61,80,527,3,0,0,42,566,29,0
+2018,2,59,WAS,GuicDe00,Derrius Guice,RB,LSU,0,0,0,5,42,245,2,0,0,9,0,7,9,79,1,0,0,-3,86,2,0
+2018,3,71,DEN,FreeRo00,Royce Freeman,RB,Oregon,0,0,0,79,471,1792,10,2,2,94,0,86,109,532,1,0,0,34,509,21,0
+2018,4,104,IND,HineNy00,Nyheim Hines,RB,North Carolina St.,0,0,0,81,315,1301,10,1,0,77,1,243,315,1797,8,2,1,542,1618,95,0
+2018,4,112,CIN,WaltMa00,Mark Walton,RB,Miami (FL),0,0,0,21,67,235,0,0,0,16,0,20,29,130,0,1,1,-35,154,4,0
+2018,4,126,ATL,SmitIt00,Ito Smith,RB,Southern Miss,0,0,0,36,176,693,7,1,0,37,0,55,72,314,0,1,0,17,313,14,0
+2018,4,131,MIA,BallKa00,Kalen Ballage,RB,Arizona St.,0,0,1,52,217,678,7,2,1,49,0,54,79,293,0,0,0,-39,386,11,0
+2018,4,134,ARI,EdmoCh00,Chase Edmonds,RB,Fordham,0,0,1,83,469,2031,11,2,0,99,0,161,210,1185,6,2,1,181,1132,55,0
+2018,5,169,IND,WilkJo01,Jordan Wilkins,RB,Mississippi,0,0,0,54,210,1018,4,0,0,46,1,41,53,262,0,2,2,-40,324,7,0
+2018,6,176,LAR,KellJo00,John Kelly,RB,Tennessee,0,0,0,14,32,96,0,0,0,7,0,2,3,27,0,0,0,-6,27,1,0
+2018,6,201,NOR,ScotBo02,Boston Scott,RB,Louisiana Tech,0,0,0,75,324,1415,19,3,1,81,0,76,95,599,1,1,0,48,659,24,0
+2018,6,204,NYJ,CannTr00,Trenton Cannon,RB,Virginia St.,0,0,0,48,51,150,1,0,0,9,0,20,28,160,0,0,0,160,131,5,0
+2018,7,226,DEN,WillDa011,David Williams,RB,Arkansas,0,0,0,6,,,,,,,,,,,,,,,,,
+2018,7,236,DAL,ScarBo01,Bo Scarbrough,RB,Alabama,0,0,0,7,95,408,1,1,1,16,0,1,4,5,0,0,0,-8,8,0,0
+2018,7,237,DET,BawdNi00,Nick Bawden,RB,San Diego St.,0,0,0,35,2,4,1,0,0,1,0,8,10,58,0,0,0,8,53,3,0
+2018,7,251,LAC,JackJu01,Justin Jackson,RB,Northwestern,0,0,0,59,251,1219,5,1,1,64,0,80,102,631,1,0,0,-50,715,28,1
+2017,1,4,JAX,FourLe00,Leonard Fournette,RB,LSU,0,0,5,81,1296,5122,43,2,0,266,0,347,431,2473,8,2,1,59,2571,129,0
+2017,1,8,CAR,McCaCh01,Christian McCaffrey,RB,Stanford,2,3,5,91,1402,6707,58,9,5,336,1,546,677,4634,32,3,0,931,4248,244,0
+2017,2,41,MIN,CookDa01,Dalvin Cook,RB,Florida St.,0,4,5,88,1409,6402,49,18,14,315,4,251,327,1926,5,3,1,-454,2296,91,0
+2017,2,48,CIN,MixoJo00,Joe Mixon,RB,Oklahoma,0,1,5,98,1716,7021,52,3,3,370,0,315,386,2340,13,3,1,-244,2638,91,1
+2017,3,67,NOR,KamaAl00,Alvin Kamara,RB,Tennessee,0,5,5,102,1469,6471,61,7,4,350,6,548,694,4625,25,3,2,786,4389,205,1
+2017,3,86,KAN,HuntKa00,Kareem Hunt,RB,Toledo,0,1,2,91,1063,4584,45,4,1,257,1,236,296,1919,18,1,0,235,1870,100,0
+2017,3,89,HOU,ForeDO00,D'Onta Foreman,RB,Texas,0,0,1,53,573,2442,14,8,2,113,1,35,49,351,3,0,0,60,297,19,0
+2017,3,105,PIT,ConnJa00,James Conner,RB,Pittsburgh,0,2,5,92,1186,5121,55,12,3,304,1,245,296,1881,10,1,1,-166,2157,89,3
+2017,4,114,WAS,PeriSa00,Samaje Perine,RB,Oklahoma,0,0,1,94,477,1915,9,3,3,93,0,168,202,1301,7,2,1,-73,1432,60,0
+2017,4,119,CHI,CoheTa00,Tarik Cohen,RB,North Carolina A&T,1,1,2,51,265,1101,5,4,3,55,0,212,280,1602,9,2,1,720,1322,58,0
+2017,4,121,SFO,WillJo12,Joe Williams,RB,Utah,0,0,0,,,,,,,,,,,,,,,,,,
+2017,4,132,PHI,PumpDo00,Donnel Pumphrey,RB,San Diego St.,0,0,0,,,,,,,,,,,,,,,,,,
+2017,4,134,GNB,WillJa06,Jamaal Williams,RB,BYU,0,0,3,104,1064,4131,32,5,2,248,3,187,231,1298,8,0,0,54,1345,63,1
+2017,4,140,NYG,GallWa00,Wayne Gallman,RB,Clemson,0,0,1,61,366,1548,9,5,2,73,0,81,115,519,2,2,1,95,506,24,0
+2017,4,143,IND,MackMa00,Marlon Mack,RB,South Florida,0,0,2,55,616,2762,22,2,1,160,3,67,97,553,3,1,1,-91,640,18,0
+2017,5,156,ATL,HillBr02,Brian Hill,RB,Wyoming,0,0,0,48,209,982,3,2,2,44,0,38,48,313,1,1,0,70,253,12,0
+2017,5,162,TAM,McNiJe00,Jeremy McNichols,RB,Boise St.,0,0,0,38,92,369,1,0,0,15,0,40,55,295,1,0,0,6,306,11,0
+2017,5,179,ARI,LogaT.00,T.J. Logan,RB,North Carolina,0,0,0,22,5,12,0,0,0,0,0,9,10,50,0,0,0,28,48,2,0
+2017,5,182,GNB,JoneAa00,Aaron Jones,RB,Texas-El Paso,0,1,6,98,1323,6679,53,9,5,336,0,308,410,2375,20,9,5,234,2533,112,2
+2017,6,188,NYJ,McGuEl00,Elijah McGuire,RB,Louisiana,0,0,0,24,180,591,4,3,3,29,1,36,57,370,2,1,1,216,311,19,0
+2017,6,203,DEN,HendDe01,De'Angelo Henderson,RB,Coastal Carolina,0,0,0,8,,,,,,,,,,,,,,,,,
+2017,6,207,CIN,WilsBr01,Brandon Wilson,RB,Houston,0,0,0,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,7,238,GNB,MaysDe00,Devante Mays,RB,Utah St.,0,0,0,8,4,1,0,2,1,0,0,3,3,0,0,0,0,-5,5,0,0
+2017,7,241,TEN,MuhaKh00,Khalfani Muhammad,RB,California,0,0,0,,,,,,,,,,,,,,,,,,
+2017,7,242,OAK,HoodEl00,Elijah Hood,RB,North Carolina,0,0,0,1,,,,,,,,,,,,,,,,,
+2017,7,249,SEA,CarsCh00,Chris Carson,RB,Oklahoma St.,0,0,3,49,798,3599,24,11,6,204,1,110,136,808,7,1,1,36,840,35,0
+2017,7,252,CLE,DayeMa00,Matthew Dayes,RB,North Carolina St.,0,0,0,23,,,,,,,,,,,,,,,,,
+2023,1,8,ATL,RobiBi01,Bijan Robinson,RB,Texas,0,0,1,18,262,1172,5,4,3,62,0,69,98,576,4,0,0,-5,641,29,0
+2023,1,12,DET,GibbJa01,Jahmyr Gibbs,RB,Alabama,0,1,0,16,251,1296,14,3,2,60,0,74,98,466,1,0,0,5,511,28,0
+2023,2,52,SEA,CharZa00,Zach Charbonnet,RB,UCLA,0,0,0,17,148,603,4,0,0,40,0,43,52,285,1,0,0,-39,319,9,0
+2023,3,71,NOR,MillKe01,Kendre Miller,RB,TCU,0,0,0,8,41,156,1,0,0,10,0,10,11,117,0,0,0,-8,128,5,0
+2023,3,81,TEN,SpeaTy00,Tyjae Spears,RB,Tulane,0,0,0,18,112,501,2,0,0,28,0,62,80,461,1,1,0,-28,552,20,0
+2023,3,84,MIA,AchaDe00,De'Von Achane,RB,Texas A&M,0,0,0,12,,,,,,,,,,,,,,,,,
+2023,3,88,JAX,BigsTa00,Tank Bigsby,RB,Auburn,0,0,0,18,64,214,2,1,1,15,0,1,4,6,0,0,0,6,5,0,0
+2023,4,115,CHI,JohnRo07,Roschon Johnson,RB,Texas,0,0,0,15,89,382,2,1,0,19,0,38,45,241,0,0,0,-23,268,7,0
+2023,5,143,NYJ,AbanIs00,Israel Abanikanda,RB,Pittsburgh,0,0,0,6,22,70,0,0,0,3,0,7,11,43,0,0,0,6,46,2,0
+2023,5,163,CIN,BrowCh10,Chase Brown,RB,Illinois,0,0,0,13,58,283,0,1,0,11,0,19,21,175,1,0,0,-43,207,4,0
+2023,5,172,NYG,GrayEr01,Eric Gray,RB,Oklahoma,0,0,0,14,21,55,0,1,0,3,0,7,8,31,0,0,0,-13,54,0,0
+2023,5,176,IND,HullEv00,Evan Hull,RB,Northwestern,0,0,0,1,1,1,0,0,0,0,0,1,1,6,0,0,0,3,3,0,0
+2023,6,193,WAS,RodrCh00,Chris Rodriguez,RB,Kentucky,0,0,0,13,51,247,2,1,1,14,0,2,2,12,0,0,0,-7,19,1,0
+2023,6,212,DAL,VaugDe00,Deuce Vaughn,RB,Kansas St.,0,0,0,8,30,60,0,0,0,1,0,9,10,54,0,0,0,-4,57,1,0
+2023,6,215,LAR,EvanZa00,Zach Evans,RB,Mississippi,0,0,0,10,9,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023,7,222,MIN,McBrDe00,DeWayne McBride,RB,Ala-Birmingham,0,0,0,,,,,,,,,,,,,,,,,,
+2023,7,235,GNB,NichLe00,Lew Nichols,RB,Central Michigan,0,0,0,,,,,,,,,,,,,,,,,,
+2023,7,237,SEA,McInKe00,Kenny McIntosh,RB,Georgia,0,0,0,4,3,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2024,2,46,CAR,BrooJo02,Jonathon Brooks,RB,Texas,0,0,0,,,,,,,,,,,,,,,,,,
+2024,3,66,ARI,BensTr01,Trey Benson,RB,Florida St.,0,0,0,1,16,31,0,0,0,2,0,2,2,12,0,0,0,-10,22,0,0
+2024,3,83,LAR,CoruBl00,Blake Corum,RB,Michigan,0,0,0,1,8,28,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2024,3,88,GNB,LloyMa00,MarShawn Lloyd,RB,USC,0,0,0,,6,15,0,0,0,0,0,1,1,3,0,0,0,-5,8,0,0
+2024,4,120,MIA,WrigJa04,Jaylen Wright,RB,Tennessee,0,0,0,,7,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,4,125,TAM,IrviBu00,Bucky Irving,RB,Oregon,0,0,0,1,25,154,0,0,0,5,0,5,6,28,0,0,0,-19,37,1,0
+2024,4,127,PHI,ShipWi00,Will Shipley,RB,Clemson,0,0,0,1,,,,,,,,,,,,,,,,,
+2024,4,128,BUF,DaviRa04,Ray Davis,RB,Kentucky,0,0,0,1,19,64,1,0,0,4,0,3,3,14,0,0,0,-14,28,1,0
+2024,4,129,SFO,GuerIs00,Isaac Guerendo,RB,Louisville,0,0,0,1,6,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2024,4,134,NYJ,AlleBr05,Braelon Allen,RB,Wisconsin,0,0,0,1,19,96,1,0,0,5,0,6,8,45,1,0,0,-4,49,2,0
+2024,5,147,DEN,EstiAu00,Audric Estime,RB,Notre Dame,0,0,0,1,2,14,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2024,5,165,BAL,AlixRa00,Rasheen Ali,RB,Marshall,0,0,0,,,,,,,,,,,,,,,,,,
+2024,5,166,NYG,TracTy00,Tyrone Tracy,RB,Purdue,0,0,0,1,12,29,0,0,0,1,0,4,6,41,0,0,0,1,41,1,0
+2024,5,167,JAX,RobiKe03,Keilan Robinson,RB,Texas,0,0,0,,,,,,,,,,,,,,,,,,
+2024,5,173,NYJ,DaviIs00,Isaiah Davis,RB,South Dakota St.,0,0,0,1,3,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2024,6,181,LAC,VidaKi00,Kimani Vidal,RB,Troy,0,0,0,,,,,,,,,,,,,,,,,,
+2024,6,186,ATL,McClJa05,Jase McClellan,RB,Alabama,0,0,0,,,,,,,,,,,,,,,,,,
+2024,6,205,HOU,JordJa00,Jawhar Jordan,RB,Louisville,0,0,0,,,,,,,,,,,,,,,,,,
+2024,6,208,LVR,LaubDy00,Dylan Laube,RB,New Hampshire,0,0,0,,,,,,,,,,,,,,,,,,
